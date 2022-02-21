@@ -9,7 +9,7 @@ servers:
 info:
   title: The Plaid API
   version: 2020-09-14_1.64.13
-  description: The Plaid REST API. Please see https://plaid.com/docs/api for more details. thanks
+  description: The Plaid REST API. Please see https://plaid.com/docs/api for more details. thanks2
   contact:
     name: Plaid Developer Team
     url: https://plaid.com
